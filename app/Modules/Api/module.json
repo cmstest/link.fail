@@ -1,0 +1,8 @@
+{
+	"name": "API",
+	"slug": "api",
+	"namespace": "API",
+	"version": "1.0",
+	"description": "API module for link.fail",
+	"enabled": true
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Crypt",
+	"slug": "crypt",
+	"namespace": "Crypt",
+	"version": "1.0",
+	"description": "Crypt module for link.fail",
+	"enabled": true
+}
